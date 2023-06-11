@@ -8,7 +8,8 @@ Este projeto foi desenvolvido com o objetivo de remover o vírus de pendrive, re
 Aqui estão as tecnologias utilizadas neste projeto.
 
 * Java SE 8 (LTS)
-* Serviços Usados
+
+### Serviços Usados
 * Github
 * NetBeans 8.0
 
