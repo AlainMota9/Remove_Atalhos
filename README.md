@@ -1,17 +1,18 @@
-## Remove_Atalhos
+## Remove Atalhos 1.0
 
-Logo of the project
+![logo](remove.png)
 
 Este projeto foi desenvolvido com o objetivo de remover o vírus de pendrive, responsável por ocultar os arquivos e criar uma série de atalhos, além disso ele permite a restauração dos arquivos originais, bem como a eliminação de todos os atalhos.
 
-Tecnologia
+### Tecnologia
 Aqui estão as tecnologias utilizadas neste projeto.
 
-Java SE 8 (LTS)
-Serviços Usados
-Github
-NetBeans 8.0
-Situação do Projeto
+* Java SE 8 (LTS)
+* Serviços Usados
+* Github
+* NetBeans 8.0
+
+### Situação do Projeto
 Projeto de software descontinuado.
 
 Interface
