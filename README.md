@@ -15,20 +15,23 @@ Aqui estão as tecnologias utilizadas neste projeto.
 ### Situação do Projeto
 Projeto de software descontinuado.
 
-Interface
-interface
+### Interface
+![interface](designe_remove.png)
 
-Recursos
-Remove o vírus com extensão .vbs.
-Remove os atalhos criado no pendrive.
-Desoculta os arquivos originais.
-Links
-Link da aplicação desenvolvida: https://github.com/AlainMota/Remove-Atalhos/blob/main/REMOVE_2.0.jar
-Repository: https://github.com/AlainMota/Remove-Atalhos
-Controle de versão
-2.0.0.0
-Autor
-Alain L. Mota: @AlainMota (https://github.com/AlainMota)
-Obrigado pela Visita!
+### Recursos
+* Remove o vírus com extensão .vbs.
+* Remove os atalhos criado no pendrive.
+* Desoculta os arquivos originais.
 
-logo
+### Links
+[Repository](https://github.com/AlainMota9/Remove_Atalhos)
+
+### Controle de versão
+1.0.0.0
+
+### Autor
+Alain L. Mota: [@AlainMota](https://github.com/AlainMota9)
+
+####Obrigado pela Visita!
+
+![logo](logo.png)
