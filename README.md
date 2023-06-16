@@ -25,8 +25,11 @@ Projeto de software descontinuado.
 * Desoculta os arquivos originais.
 
 ### Links
-[Repository](https://github.com/AlainMota9/Remove_Atalhos)
-
+* [Repository](https://github.com/AlainMota9/Remove_Atalhos)
+* [Facebook](https://www.facebook.com/alain.mota.3/)
+* [Lattes](http://lattes.cnpq.br/9940114103826916)
+* [linkedin](https://www.linkedin.com/in/alain-mota-a61319117/)
+  
 ### Controle de versão
 1.0.0.0
 
